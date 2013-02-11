@@ -1,0 +1,1 @@
+class window.playerView extends Backbone.View
